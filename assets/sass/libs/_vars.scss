@@ -1,0 +1,41 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000
+	);
+
+// Duration.
+	$duration: (
+		transition:			0.2s,
+		bg:					1.75s,
+		main:				1s
+	);
+
+// Size.
+	$size: (
+		border-radius:		4px,
+		border-width:		1px,
+		element-height:		2.75em,
+		element-margin:		1.5em,
+		letter-spacing:		0.2em
+	);
+
+// Font.
+	$font: (
+		family:				('Alegreya Sans', Helvetica, sans-serif),
+		family-fixed:		('Courier New', monospace),
+		family-heading:		('Alegreya Sans', Helvetica, sans-serif),
+		weight:				300
+	);
+
+// Palette.
+	$palette: (
+		bg:					#fff,
+		bg-alt:				#e1dfe8,
+		fg:					#503d9f,
+		fg-bold:			#503d9f,
+		fg-light:			#503d9f,
+		border:				#9788d6,
+		accent1:			#4e32c2,
+		accent2:			#5b1a35,
+		highlight:			#ff7496
+	);
